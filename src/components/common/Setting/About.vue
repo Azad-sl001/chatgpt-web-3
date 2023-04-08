@@ -56,8 +56,8 @@ onMounted(() => {
             href="http://www.azad.asia/dashang/"
             target="_blank"
           >
-            所得赞助
-          </a>都将用于网站维护。
+            欢迎赞助
+          </a>，所得都将用于网站维护。
         </p>
 				<p>
 					欢迎光顾 <a
@@ -67,6 +67,14 @@ onMounted(() => {
           >
            🛒 我的小店
           </a>。
+					</p>
+				<p>欢迎加入 <a
+            class="text-blue-600 dark:text-blue-500"
+            href="https://t.zsxq.com/0cy1WzxXu"
+            target="_blank"
+          >
+           🪐 站长星球
+          </a>，获取更多福利。
 			   </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
