@@ -62,7 +62,7 @@ onMounted(() => {
 				<p>
 					欢迎光顾 <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://faka.azad.asia/"
+            href="https://faka.aihub.ren/"
             target="_blank"
           >
            🛒 我的小店
